@@ -245,6 +245,8 @@ Navigate to **Manage Jenkins > Manage Plugins** and install:
 - ✅ **Eclipse Temurin Installer**
 - ✅ **Config File Provider**
 - ✅ **Pipeline Maven Integration**
+- ✅ **kubernetes**
+- ✅ **kubernetes cli**
 
 ## ⚙️ Jenkins Global Configuration
 
@@ -360,7 +362,9 @@ Navigate to **Manage Jenkins > Managed Files > Add New Config**:
 5. 🚀 Implement automated deployments
 
 ---
-  
+## Result
+![Shopping Cart Application](./result.jpg)
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -368,4 +372,5 @@ Navigate to **Manage Jenkins > Managed Files > Add New Config**:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
