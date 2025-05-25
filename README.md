@@ -7,6 +7,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Overview
+![Shopping Cart Application](./image.jpg)
+
 
 A comprehensive shopping cart web application built with Spring Boot ecosystem, featuring user authentication, session-based cart management, and secure checkout functionality. This project demonstrates modern Java web development practices with a clean, responsive interface.
 
