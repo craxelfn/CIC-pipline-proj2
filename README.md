@@ -358,11 +358,7 @@ Navigate to **Manage Jenkins > Managed Files > Add New Config**:
 5. 🚀 Implement automated deployments
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+  
 ## 🤝 Contributing
 
 1. Fork the repository
